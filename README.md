@@ -1,4 +1,4 @@
-# Bootcamp_Data_Science_Big_Data
+# Bootcamp DiversiData Tech Pan
 
 # 1 - Fundamentos do Big Data
 
