@@ -14,6 +14,16 @@ para esse problema é criar um algoritmo de Machine Learning de regressão linea
 para predizer o valor da diária do imóvel baseado na quantidade de
 pessoas que realizaram a diária.
 
+Atividades
+
+Para esta atividade, os alunos deverão criar um algoritmo de regressão linear
+para prever o valor da diária de um imóvel baseado no número de pessoas.
+
+1. Analisar os dados coletados;
+2. Avaliar a relação entre as variáveis;
+3. Criar algoritmo de regressão linear;
+4. Responder as questões teóricas e práticas do trabalho.
+
 
 ## Desafio 1
 
@@ -36,3 +46,15 @@ saúde identificaram 4 grandes grupos:
 2. Risco Moderado alto
 3. Risco Moderado baixo
 4. Baixo risco
+
+Atividades
+
+Os alunos deverão desempenhar as seguintes atividades:
+1. Coletar e analisar os dados dos seguintes datasets:
+a. dados_clientes
+b. estados_brasileiros
+c. idade_clientes
+2. Manipular dados e corrigir erros se necessário;
+3. Implementar algoritmo não supervisionado Kmeans;
+4. Criar agrupamento para 4 grupos distintos;
+5. Responder as questões teóricas e práticas do trabalho.
